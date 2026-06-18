@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vishal07o1/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/vishal07o1/leetcode/tree/master/0011-container-with-most-water) |
 | [0238-product-of-array-except-self](https://github.com/vishal07o1/leetcode/tree/master/0238-product-of-array-except-self) |
 ## Two Pointers
@@ -20,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/vishal07o1/leetcode/tree/master/0238-product-of-array-except-self) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/vishal07o1/leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
