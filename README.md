@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/vishal07o1/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/vishal07o1/leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vishal07o1/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/vishal07o1/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/vishal07o1/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/vishal07o1/leetcode/tree/master/0344-reverse-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/vishal07o1/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/vishal07o1/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Sorting
 |  |
 | ------- |
@@ -80,4 +82,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/vishal07o1/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/vishal07o1/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
