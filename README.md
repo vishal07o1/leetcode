@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vishal07o1/leetcode/tree/master/0011-container-with-most-water) |
+| [1903-largest-odd-number-in-string](https://github.com/vishal07o1/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/vishal07o1/leetcode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/vishal07o1/leetcode/tree/master/0069-sqrtx) |
+| [1903-largest-odd-number-in-string](https://github.com/vishal07o1/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/vishal07o1/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/vishal07o1/leetcode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/vishal07o1/leetcode/tree/master/0443-string-compression) |
+| [1903-largest-odd-number-in-string](https://github.com/vishal07o1/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/vishal07o1/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vishal07o1/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Sorting
