@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vishal07o1/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/vishal07o1/leetcode/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/vishal07o1/leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/vishal07o1/leetcode/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/vishal07o1/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/vishal07o1/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/vishal07o1/leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/vishal07o1/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/vishal07o1/leetcode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/vishal07o1/leetcode/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/vishal07o1/leetcode/tree/master/0796-rotate-string) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vishal07o1/leetcode/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/vishal07o1/leetcode/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |
