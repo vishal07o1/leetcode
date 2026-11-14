@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/vishal07o1/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/vishal07o1/leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/vishal07o1/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0053-maximum-subarray](https://github.com/vishal07o1/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/vishal07o1/leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/vishal07o1/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/vishal07o1/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -131,4 +132,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/vishal07o1/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/vishal07o1/leetcode/tree/master/0876-middle-of-the-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/vishal07o1/leetcode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/vishal07o1/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
