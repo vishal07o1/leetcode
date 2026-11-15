@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/vishal07o1/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/vishal07o1/leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/vishal07o1/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0049-group-anagrams](https://github.com/vishal07o1/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/vishal07o1/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/vishal07o1/leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vishal07o1/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vishal07o1/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/vishal07o1/leetcode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/vishal07o1/leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/vishal07o1/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/vishal07o1/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vishal07o1/leetcode/tree/master/0242-valid-anagram) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/vishal07o1/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/vishal07o1/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vishal07o1/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/vishal07o1/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/vishal07o1/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/vishal07o1/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/vishal07o1/leetcode/tree/master/0205-isomorphic-strings) |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vishal07o1/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/vishal07o1/leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/vishal07o1/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vishal07o1/leetcode/tree/master/0242-valid-anagram) |
